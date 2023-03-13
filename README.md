@@ -22,7 +22,7 @@ Runs the node backend
 
 
 ### Take aways!
-Learnt abotu props, useStates, useEffects
-Learnt about routering
-Making API calls to backend json servers
+Learnt abotu props, useStates, useEffects \
+Learnt about routering \
+Making API calls to backend json servers \ 
 React in general tons of fun
