@@ -1,0 +1,28 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Take morning meds",
+      "day": "Nov 20TH AT 9:00AM",
+      "reminder": true
+    },
+    {
+      "id": 2,
+      "text": "Work until i drop",
+      "day": "Nov 20TH AT 11:00AM",
+      "reminder": true
+    },
+    {
+      "id": 3,
+      "text": "Sleep, game or study",
+      "day": "Nov 20TH AT 9:00PM",
+      "reminder": true
+    },
+    {
+      "text": "Do Leetcode",
+      "day": "Monday",
+      "reminder": true,
+      "id": 4
+    }
+  ]
+}

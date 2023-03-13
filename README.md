@@ -17,3 +17,12 @@ Installs the npm serv package globally (basic http server)
 ### `serve -s build -p 8000` 
 Runs the build folder on localhoot:8000
 
+### `npm run server`
+Runs the node backend
+
+
+### Take aways!
+Learnt abotu props, useStates, useEffects
+Learnt about routering
+Making API calls to backend json servers
+React in general tons of fun
