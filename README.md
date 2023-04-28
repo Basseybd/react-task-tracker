@@ -3,23 +3,11 @@
 Hey this is my react reminder app I made using the following tutorial \
 https://www.youtube.com/watch?v=w7ejDZ8SWv8&ab_channel=TraversyMedia
 
+## This is deployed here
+https://react-task-tracker-basseybd.vercel.app/
+
 ## Mics notes
-
-### `npm start` 
-Runs the repo on localhoot:3000
-
-### `npm run build` 
-Makes a build folder that I deploy
-
-### `npm 1 -g serve` 
-Installs the npm serv package globally (basic http server)
-
-### `serve -s build -p 8000` 
-Runs the build folder on localhoot:8000
-
-### `npm run server`
-Runs the node backend
-
+Has bugs in the where the tasks are not rendering when deployed this is a low proioty project I will likely get to it eventually but not anytime soon I think it was running off a local server but I will crosscheck when I get the chance
 
 ### Take aways!
 Learnt about props, useStates, useEffects \
